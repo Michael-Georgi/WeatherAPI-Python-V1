@@ -113,7 +113,7 @@ class WeatherApplication(QWidget):
 """)
         self.temperature_label.setText("Loading...")
 
-        #Click button to recieve weather
+        #Click button to receive weather
         self.select_city_button.clicked.connect(self.receive_weather)
 
         #Press enter to get information
