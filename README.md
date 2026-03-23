@@ -11,7 +11,7 @@ A modern desktop weather application built with Python and PyQt5 that fetches re
 - 🌤 Shows weather condition (e.g. Clear, Cloudy, Rain)
 - Dynamic weather emojis
 - ⚠️ Error handling (invalid city, API issues, connection errors)
-- Clean and modern UI
+- Clean and easy to use UI
 
 ---
 
