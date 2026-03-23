@@ -116,7 +116,7 @@ class WeatherApplication(QWidget):
         #Click button to receive weather
         self.select_city_button.clicked.connect(self.receive_weather)
 
-        #Press enter to get information
+        #Press enter to receive weather
         self.city_search.returnPressed.connect(self.receive_weather)
         
     def receive_weather(self):
