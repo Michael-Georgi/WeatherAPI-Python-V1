@@ -1,6 +1,6 @@
 # Weather App (Python + PyQt5)
 
-A modern desktop weather application built with Python and PyQt5 that fetches real-time weather data using the OpenWeatherMap API.
+A desktop weather application built with Python and PyQt5 that fetches real-time weather data using the OpenWeatherMap API.
 
 ---
 
